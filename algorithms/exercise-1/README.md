@@ -9,4 +9,3 @@ Make sure to implement the following operations:
 * `top`
 * `push`
 * `pop`
-* `peek`
